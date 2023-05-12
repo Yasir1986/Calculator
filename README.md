@@ -1,4 +1,4 @@
-Calculator with HTML, CSS and JavaScript
+Calculator with JavaScript, HTML and CSS
 
 Live deployed link:
 
